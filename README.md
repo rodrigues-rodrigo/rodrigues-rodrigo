@@ -1,4 +1,10 @@
-### Hi there 👋
+##### Sempre me interessei por TI e estou trabalhando e aprendendo todos os dias a pelo menos 9 anos.
+
+##### Atualmente estou graduando para poder mergulhar mais nesse mundo, aprender novas ferramentas e poder desenvolver o futuro.
+
+##### Gosto de me desafiar dia a dia, sempre em busca de novos conhecimentos.
+
+##### Um sonho: poder trabalhar com tecnologia morando em Londres.
 
 <!--
 **rodrigues-rodrigo/rodrigues-rodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
